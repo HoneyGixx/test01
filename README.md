@@ -1,2 +1,8 @@
 # test01
-test 132383
+git commands:
+git clone
+git status
+git comit -m ""
+git log
+git push
+git pull
